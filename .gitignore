@@ -1,1 +1,10 @@
-./build
+# build files and executables
+build
+blurhash_cuda_*
+
+# private notes
+notes.md
+
+# images
+*.png
+!data/*.png

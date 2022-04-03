@@ -1,0 +1,1 @@
+{"buildTargets":["all","blurhash_cuda_decoder","blurhash_cuda_encoder","clean","decode.o","decode_stb.o","encode.o","encode_stb.o"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}

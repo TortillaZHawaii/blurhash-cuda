@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/tortilla/cuda/blurhash'
+make: Leaving directory '/home/tortilla/cuda/blurhash'
+ 
+make: *** No rule to make target 'src/decode_stb.cu', needed by 'decode_stb.o'.
+
