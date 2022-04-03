@@ -8,3 +8,9 @@ notes.md
 # images
 *.png
 !data/*.png
+
+# time logs
+*.csv
+
+# vscode logs
+.vscode/*.log
